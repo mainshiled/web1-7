@@ -1,8 +1,8 @@
 @charset "UTF-8";
 body
 {
-background-color:brown;
-  background-image:url(../IMG_1095[1].JPG)
+ background-image:url(../IMG_1095[1].JPG);
+ background-color:brown; 
 }
 
 header
