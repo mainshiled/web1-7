@@ -2,7 +2,8 @@
 body
 {
  background-image:url(../IMG_1095[1].JPG);
- background-color:brown; 
+ background-color:brown;
+ background-repeat:repeat-x;
 }
 
 header
