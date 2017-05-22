@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body
 {
-background-color:brown;
+background-color:white;
 }
 
 header
@@ -11,25 +11,25 @@ background-color="green";
 
 #yazyu
 {
-background-color="";
+background-color="yellow";
 }
 
 #yakuza
 {
-background-color="";
+background-color="orange";
 }
 
 #iiyokoiyo
 {
-background-color="";
+background-color="purple";
 }
 
 aside
 {
-background-color="";
+background-color="blue";
 }
 
 footer
 {
-background-color="";
+background-color="gray";
 }
