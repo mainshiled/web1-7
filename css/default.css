@@ -1,47 +1,47 @@
 @charset "UTF-8";
 body
 {
-background-color:"white";
+background-color:white;
 }
 
 header
 {
-background-color="green";
+background-color:green;
   width: 500px;
   float:center;
 }
 
 #yazyu
 {
-background-color="yellow";
+background-color:yellow;
   width:300px;
   float:right;
 }
 
 #yakuza
 {
-background-color="orange";
+background-color:orange;
   width:300px;
   float:left;
 }
 
 #iiyokoiyo
 {
-background-color="purple";
+background-color:purple;
   width:400px;
   float:right;
 }
 
 aside
 {
-background-color="blue";
+background-color:blue;
   width:300px;
   float:center;
 }
 
 footer
 {
-background-color="gray";
+background-color:gray;
   width:500px;
   float:left;
 }
