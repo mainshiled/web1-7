@@ -15,28 +15,28 @@ background-color:green;
 {
 background-color:yellow;
   width:300px;
-  float:right;
+  float:left;
 }
 
 #yakuza
 {
 background-color:orange;
   width:300px;
-  float:left;
+  float:center;
 }
 
 #iiyokoiyo
 {
 background-color:purple;
   width:400px;
-  float:right;
+  float:left;
 }
 
 aside
 {
 background-color:blue;
   width:300px;
-  float:center;
+  float:right;
 }
 
 footer
