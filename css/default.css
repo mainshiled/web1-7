@@ -1,7 +1,8 @@
 @charset "UTF-8";
 body
 {
-background-color:white;
+background-color:brown;
+  background-image:url(../IMG_1095[1].JPG)
 }
 
 header
@@ -31,6 +32,14 @@ background-color:orange;
 background-color:purple;
   width:400px;
   float:left;
+}
+
+.ikuiku
+{
+background-color:white;
+  width:300px;
+  height:80px;
+  float:right;
 }
 
 aside
