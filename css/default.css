@@ -23,6 +23,7 @@ background-color:yellow;
 background-color:orange;
   width:400px;
   float:right;
+  clear:both;
 }
 
 #iiyokoiyo
@@ -37,6 +38,7 @@ aside
 background-color:blue;
   width:300px;
   float:right;
+  clear:both;
 }
 
 footer
@@ -44,4 +46,5 @@ footer
 background-color:gray;
   width:500px;
   float:left;
+  clear:both;
 }
